@@ -1,5 +1,5 @@
 # Content
-Here are some of the assignments I had to implement for the course of Artificial Intelligence in the first year
+Here are some of the assignments I had to implement for the course of Artificial Intelligence in the second year of University
 
 Some of the projects contain: 
 
